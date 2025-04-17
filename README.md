@@ -121,4 +121,8 @@ To understand if facilities with higher funding are more likely to have shorter 
 
 ![image](https://github.com/user-attachments/assets/723b85fb-e168-4dce-8d24-a55c506ffa18)
 
+**Analyzing facilities with respect to funding and emergency response**
+![image](https://github.com/user-attachments/assets/ef508bec-0f75-4d3b-8545-6981687905ef)
+
+![image](https://github.com/user-attachments/assets/d5ba0d43-07fb-4abf-b6c6-a0cb80159a54)
 
