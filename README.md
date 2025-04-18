@@ -126,3 +126,8 @@ To understand if facilities with higher funding are more likely to have shorter 
 
 ![image](https://github.com/user-attachments/assets/d5ba0d43-07fb-4abf-b6c6-a0cb80159a54)
 
+# Which facility types (hospitals, clinics, health centers) show the highest efficiency in terms of funding per patient visit? 
+![image](https://github.com/user-attachments/assets/04be4780-46c3-4b7e-bb5d-26013c82e8bb)
+![image](https://github.com/user-attachments/assets/d488676c-5e12-4608-9a63-822c24f729d0)
+
+
