@@ -33,6 +33,9 @@ Actionable Insights for Stakeholders
 # Link to dataset: Healthcare Accessibility in Africa Case Study Datasets
 + https://github.com/SarfoEmmanuel/stfinalproject/blob/a22ef1cf96903854a04721e9beff5f25550c5c2c/healthcare_africa.csv
 
+# Link to Visualization in Power BI Format
++ 
+
 # Code To the Entire Project
 + [DataAnalysis.ipynb](https://github.com/SarfoEmmanuel/stfinalproject/blob/3a23243fdfdb6ca5db6082a7272ea4e9dd7be6ad/DataAnalysis.ipynb)
 
