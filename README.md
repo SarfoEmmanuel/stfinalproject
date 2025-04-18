@@ -36,8 +36,11 @@ Actionable Insights for Stakeholders
 # Link to Visualization in Power BI Format
 + https://github.com/SarfoEmmanuel/stfinalproject/blob/538cac6ec415bbc60ba49549973eea36af546b04/Healthcare%20Access.pbit
 
-# Code To the Entire Project
+# Code for the Entire Project With Visualization
 + [DataAnalysis.ipynb](https://github.com/SarfoEmmanuel/stfinalproject/blob/3a23243fdfdb6ca5db6082a7272ea4e9dd7be6ad/DataAnalysis.ipynb)
+
+# Code for the Entire Project Without Visualization
+DataAnalysis.py
 
 # Requirements
 + Anaconda
