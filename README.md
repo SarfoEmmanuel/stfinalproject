@@ -40,7 +40,7 @@ Actionable Insights for Stakeholders
 + [DataAnalysis.ipynb](https://github.com/SarfoEmmanuel/stfinalproject/blob/3a23243fdfdb6ca5db6082a7272ea4e9dd7be6ad/DataAnalysis.ipynb)
 
 # Code for the Entire Project Without Visualization
-DataAnalysis.py
+https://github.com/SarfoEmmanuel/stfinalproject/blob/e0e4d3dee4312a26b88f19a607bd200763bab30a/DataAnalysis.py
 
 # Requirements
 + Anaconda
