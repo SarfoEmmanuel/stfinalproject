@@ -34,7 +34,7 @@ Actionable Insights for Stakeholders
 + https://github.com/SarfoEmmanuel/stfinalproject/blob/a22ef1cf96903854a04721e9beff5f25550c5c2c/healthcare_africa.csv
 
 # Code To the Entire Project
-+ DataAnalysis.ipynb
++ [DataAnalysis.ipynb](https://github.com/SarfoEmmanuel/stfinalproject/blob/3a23243fdfdb6ca5db6082a7272ea4e9dd7be6ad/DataAnalysis.ipynb)
 
 # Requirements
 + Anaconda
