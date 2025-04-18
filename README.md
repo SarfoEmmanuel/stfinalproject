@@ -118,6 +118,8 @@ To understand if facilities with higher funding are more likely to have shorter 
 ![image](https://github.com/user-attachments/assets/a76f70b5-1419-465d-8ec6-a7618e220671)
 
 + **Visualizing it**
+![image](https://github.com/user-attachments/assets/ca3a7941-c01f-46f5-a5c2-86c9fe1ec180)
+
 ![image](https://github.com/user-attachments/assets/d2d910f8-acf1-4851-8e2c-e86e7248d0b5)
 
 ![image](https://github.com/user-attachments/assets/723b85fb-e168-4dce-8d24-a55c506ffa18)
